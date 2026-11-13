@@ -62,4 +62,3 @@ Erosion and sediment risk in road drainage structures: *AJERI*, Vol. 3 No. 4, De
 - Validated against real project data and the reference software.
 - Open source, versioned and citable, so a design can be checked and reproduced.
 
-📫 akelloedmond@gmail.com
