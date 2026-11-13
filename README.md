@@ -2,9 +2,18 @@
 
 **Civil engineer · Hydrology, drainage and roads · Open-source engineering software**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edmond%20Akello-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmond-akello-9647741aa)
+
 I'm a civil engineer in Nairobi working on hydrology, hydraulics, drainage and road design. I build open-source QGIS tools that bring that work out of closed desktop packages and into reproducible, checkable workflows, validated against the industry tools engineers already trust (ArcHydro, Civil 3D) and against the design manuals they work to.
 
 ## Featured projects
+
+<p align="center">
+  <a href="https://github.com/EdmondAkello/Road-Furniture-Designer"><img src="https://raw.githubusercontent.com/EdmondAkello/Road-Furniture-Designer/main/docs/user-guide/figures/fig_map_junction.png" alt="Road Furniture Designer: a junction layout on the QGIS map" width="32%"></a>
+  <a href="https://github.com/EdmondAkello/qeht"><img src="https://raw.githubusercontent.com/EdmondAkello/qeht/main/docs/images/road_catchments.jpg" alt="QEHT: catchments and flow paths of the crossings along a road" width="24%"></a>
+  <a href="https://github.com/EdmondAkello/LandXML-Road-and-Terrain-GIS-Tools"><img src="https://raw.githubusercontent.com/EdmondAkello/LandXML-Road-and-Terrain-GIS-Tools/main/docs/user-guide/figures/fig_viewer_sections.png" alt="LandXML tools: profile viewer with a cross-section" width="32%"></a>
+</p>
+<p align="center"><sub>Road Furniture Designer · QEHT · LandXML Road &amp; Terrain GIS Tools (synthetic demonstration data)</sub></p>
 
 ### 🛣️ [Road Furniture Designer](https://github.com/EdmondAkello/Road-Furniture-Designer)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24162212.svg)](https://doi.org/10.5281/zenodo.24162212)
@@ -14,7 +23,7 @@ A QGIS plugin for road furniture along a Civil 3D LandXML alignment, to the Keny
 - Junctions, roundabouts, bus and truck bays, climbing and descending lanes, brake check areas and truck escape ramps.
 - A live inventory for the QTO, an A3 report with checks against the geometry, a georeferenced DXF and 3D feature lines back to Civil 3D.
 
-Comes with a full user guide and technical manual.
+Runs on QGIS 3.44 and 4 with nothing to install, and comes with a full user guide and technical manual. Submitted to the official QGIS plugin repository.
 
 ### 🌧️ [QEHT — QGIS Engineering Hydrology Toolkit](https://github.com/EdmondAkello/qeht)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23393476.svg)](https://doi.org/10.5281/zenodo.23393476)
